@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-If you like my work, do leave a star. I'd more than happy if you give any receive suggestions to improve my work!! 
+If you like my work, do leave a star ✨. I'd more than happy if you give any receive suggestions to improve my work!! 
 
 In this project various techniques are used. The basic concepts such as data cleaning, data transformation are also explained very clearly.
 ![Summary](https://s3.amazonaws.com/thinkific/file_uploads/118220/images/c7c/493/5c3/1549279359967.jpg)
