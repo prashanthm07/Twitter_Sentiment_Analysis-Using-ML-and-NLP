@@ -1,4 +1,5 @@
 # Twitter Sentiment Analysis
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
 
 If you like my work, do leave a star ✨. I'd more than happy if you give any receive suggestions to improve my work!! 
 
